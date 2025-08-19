@@ -1,0 +1,24 @@
+{
+  "name": "arviis-music",
+  "version": "0.0.1",
+  "description": "arviis.",
+  "license": "MIT",
+  "author": "arviis.",
+  "type": "commonjs",
+  "main": "arvis.js",
+  "scripts": {
+    "test": "node arvis.js"
+  },
+  "dependencies": {
+    "@discord-player/extractor": "^7.1.0",
+    "@discordjs/voice": "^0.18.0",
+    "ascii-table": "^0.0.9",
+    "discord-player": "^7.1.0",
+    "discord.js": "^14.21.0",
+    "ffmpeg-static": "^5.2.0",
+    "fs": "^0.0.1-security",
+    "install": "^0.13.0",
+    "npm": "^11.5.2",
+    "play-dl": "^1.9.7"
+  }
+}
